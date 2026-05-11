@@ -1,32 +1,47 @@
-# Salut, moi c'est Mahenina Randrianirina! 👋
+# Salut ! Moi c'est [Mahenina Randrianirina] 🚀
 
-### ⚡ À propos de moi
-Je suis un **Data & AI Engineer** passionné(e) par la création de solutions innovantes et l'apprentissage continu.
-
-- 🌱 J'apprends en ce moment **[Rust]**
-- 💬 Demandez-moi n'importe quoi sur **[Python, SQL, n8n, LLM, Agentic AI, ...]**
+Je suis un **Développeur IA & Data** passionné par l'ère du **"Agentic Work"**. Je construis des systèmes où le code ne se contente pas d'exécuter des tâches, mais collabore intelligemment pour résoudre des problèmes complexes.
 
 ---
 
-### 🛠 Stack Technique
+### 🧠 Domaines d'Expertise & Focus 2026
 
-| Domaine | Technologies |
+- **Agentic Dev & Orchestration** : Exploration de frameworks multi-agents (type Overstory, Ruflo) et création de "skills" personnalisées pour Claude Code.
+- **LLM Engineering** : Mise en place de pipelines RAG (Retrieval-Augmented Generation) performants, gestion d'embeddings et optimisation de contextes longs[cite: 6, 10].
+- **Fullstack AI Stack** : Maîtrise de l'écosystème **Supabase** (Auth, Edge Functions, Real-time) pour supporter des applications IA scalables.
+- **Data Analytics & Visualization** : Analyse de performance (Retail, RH, Finance) via des outils comme **Power BI** et **Apache Superset**[cite: 7, 9].
+
+---
+
+### 🛠 Ma Stack Technique
+
+| Catégorie | Outils & Langages |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| **Backend** | ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Bases de données** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **Outils** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Langages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **AI / LLM** | ![Claude](https://img.shields.io/badge/-Claude%203.5-D97757?style=flat) ![OpenAI](https://img.shields.io/badge/-GPT--5.5-412991?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-blue?style=flat) |
+| **Backend / DB** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **Data Viz** | ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Superset](https://img.shields.io/badge/-Apache%20Superset-0073B7?style=flat&logo=apache-superset&logoColor=white) |
 
 ---
 
-### 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/mahenina-randrianirina-397626200/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahenina42@gmail.com)
+### 🚀 Projets & Veille (Early 2026)
+
+*   **Agentic OS Setup** : Configuration de systèmes de travail pilotés par agents pour automatiser le flux Git et la revue de code[cite: 2].
+*   **Local AI Second Brain** : Développement d'un système de gestion de connaissances 100% local basé sur des embeddings pour une confidentialité totale[cite: 6].
+*   **Projets IA "Weekend"** : Création de dashboards financiers interactifs et d'extracteurs de données via PDFs (PyMuPDF)[cite: 8].
+
+
+---
+
+### 📫 Contact
+- **LinkedIn** : [linkedin.com/in/votre-profil](https://www.linkedin.com/in/mahenina-randrianirina-397626200/)
+- **Email** : [mahenina42@gmail.com](mailto:mahenina42@gmail.com)
 
 ---
 <p align="center">
-  <i>"L'imagination est plus importante que le savoir." – Albert Einstein</i>
+  <i>"On passe d'écrire du code dans un IDE à piloter un système d'agents."</i>[cite: 2]
 </p>
+
 <!---
 MaheninaRandrianirina/MaheninaRandrianirina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
