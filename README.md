@@ -1,4 +1,4 @@
-# Salut ! Moi c'est [Mahenina Randrianirina] 🚀
+# Salut ! Moi c'est Mahenina Randrianirina 🚀
 
 Je suis un **Développeur IA & Data** passionné par l'ère du **"Agentic Work"**. Je construis des systèmes où le code ne se contente pas d'exécuter des tâches, mais collabore intelligemment pour résoudre des problèmes complexes.
 
