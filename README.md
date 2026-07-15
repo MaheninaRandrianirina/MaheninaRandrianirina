@@ -22,19 +22,11 @@ Je suis un **Développeur IA & Data** passionné par l'ère du **"Agentic Work"*
 | **Backend / DB** | ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
 | **Data Viz** | ![PowerBI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Superset](https://img.shields.io/badge/-Apache%20Superset-0073B7?style=flat&logo=apache-superset&logoColor=white) |
 
----
-
-### 🚀 Projets & Veille (Early 2026)
-
-*   **Agentic OS Setup** : Configuration de systèmes de travail pilotés par agents pour automatiser le flux Git et la revue de code[cite: 2].
-*   **Local AI Second Brain** : Développement d'un système de gestion de connaissances 100% local basé sur des embeddings pour une confidentialité totale[cite: 6].
-*   **Projets IA "Weekend"** : Création de dashboards financiers interactifs et d'extracteurs de données via PDFs (PyMuPDF)[cite: 8].
-
 
 ---
 
 ### 📫 Contact
-- **LinkedIn** : [linkedin.com/in/votre-profil](https://www.linkedin.com/in/mahenina-randrianirina-397626200/)
+- **LinkedIn** : [linkedin.com/in/votre-profil](https://www.linkedin.com/in/mahenina-randrianirina/)
 - **Email** : [mahenina42@gmail.com](mailto:mahenina42@gmail.com)
 
 ---
